@@ -1,6 +1,6 @@
 # Hi there, I'm Ishan Bansal 👋
 
-## 🎓 Electronics & Communication Engineer | 🤖 Agentic AI & LLMOps Engineer | ⚡ Tech Explorer | 🚀 Always Learning
+## 🤖 AI/ML & LLMOps Engineer  | 🎓 Electronics & Communication Engineer | ⚡ Tech Explorer | 🚀 Always Learning
 
 [![GitHub followers](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/ishanb18)
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Engineer-green?style=for-the-badge&logo=tensorflow)](https://github.com/ishanb18)
